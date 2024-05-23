@@ -9,6 +9,7 @@
 <div align="center">
   <!-- Add badges here -->
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/HossamMohamed12/Top-IMDb-Movies">
+  <img alt="GitHub license" src="https://img.shields.io/github/license/HossamMohamed12/Game-Store-Data-Scraper">
 </div>
 
 <br>
