@@ -8,8 +8,8 @@
 
 <div align="center">
   <!-- Add badges here -->
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/HossamMohamed12/imdb-top-movies-scraper">
-  <img alt="GitHub license" src="https://img.shields.io/github/license/HossamMohamed12/imdb-top-movies-scraper">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/HossamMohamed12/Top-IMDb-Movies">
+  <img alt="GitHub license" src="https://img.shields.io/github/license/HossamMohamed12/Top-IMDb-Movies">
 </div>
 
 <br>
@@ -19,8 +19,7 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
+- [Contribution](#contribution)
 - [License](#license)
 
 ## Introduction
